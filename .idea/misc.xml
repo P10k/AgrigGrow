@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/button_corner.xml" value="0.186" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_person.xml" value="0.1035" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_person2.xml" value="0.1015" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_splash.xml" value="0.205" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/ic_user.xml" value="0.1015" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/rectangle_corner.xml" value="0.2075" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/round_nav.xml" value="0.2075" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/simpleround_border.xml" value="0.254" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/drawable/wave.xml" value="0.2265" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/about_us.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/acqua_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_agri_map.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_black_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_carnation_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_chat_bot.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_coco_nut.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_ferti_calci.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_gerenim_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_goldenrod_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_lemon_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_machine_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_pesti_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_weather_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/activity_web_view.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/agri_learn.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/agri_map.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/agriculture_fragment.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/allspice_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/apple_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/arecanut_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/aster_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/banana_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/belevin_info.xml" value="0.23333333333333334" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/cardamon_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/cashew_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/choki_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/chrysanthemum_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/cinaman_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/clove_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/coffee_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/contact_us.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/crop_practice.xml" value="0.264" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/dairy_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/date_inf0.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/dendrobiumorchi_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/drone_service.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/farming_fragment.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/fennel_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/final_bill.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/forget_password.xml" value="0.264" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/garlic_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/gerbera_info.xml" value="0.1" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/ginger_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/gladiolus_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/greeps_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/guava_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/home_1.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/home_fragment.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/insti_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/invent_tory.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/kisan_fragment.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/know_more.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/layout_item.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/lilium_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/login.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/mango_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/news_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/nutmeg_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/oil_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/orange_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/papaya_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/pineapple_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/register.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/register_2.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/reset_password.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/rose_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/rubber_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/sapota_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/setting_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/splashagri.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/splashscreen.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/tea_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/tools_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/tuberose_info.xml" value="0.23333333333333334" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/turmeric_info.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/layout/weather_page.xml" value="0.2484375" />
+        <entry key="..\:/project Agrigrow/login/app/src/main/res/menu/bottom_nav.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

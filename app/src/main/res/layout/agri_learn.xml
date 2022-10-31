@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Agri_Learn">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <view
+            android:id="@+id/view"
+            class="androidx.appcompat.widget.ActionMenuView"
+            android:layout_width="411dp"
+            android:layout_height="23dp"
+            android:background="@color/colorPrimary"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@color/colorPrimary"
+            android:text="   Agri Learn"
+            android:textColor="@android:color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+
+        <View
+            android:id="@+id/bottomview1"
+            android:layout_width="428dp"
+            android:layout_height="64dp"
+            android:background="@drawable/wave" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="           How to use Fertilizer"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"
+
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"/>
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="4"
+            android:columnCount="2"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn1"
+                        android:layout_width="150dp"
+                        android:layout_height="132dp"
+                        android:background="@drawable/perti"
+                        android:foreground="@drawable/perti"
+                        android:text="Pesticide"
+                        android:textSize="19dp"></Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pesticide"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn2"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:background="@drawable/inset"
+                        android:foreground="@drawable/inset"
+                        android:text="Insecticide"
+                        android:textSize="17dp">
+
+                    </Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="33dp"
+                        android:text="Insecticide"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="          Tools and Machinery"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"/>
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="4"
+            android:columnCount="2"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn3"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:background="@drawable/tool"
+                        android:foreground="@drawable/tool"
+                        android:text="Tools"
+                        android:textSize="19dp"></Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="33dp"
+                        android:text="Tools"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn4"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/machin"
+                        android:foreground="@drawable/machin"
+                        android:text="Machinery"
+                        android:textSize="17dp"></Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="33dp"
+                        android:text="Machinery"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="      Farming Business Ideas"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"/>
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="4"
+            android:columnCount="2"
+            android:layout_margin="5dp"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn5"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:background="@drawable/aqua"
+                        android:foreground="@drawable/aqua"
+                        android:text="Aquaculture"
+                        android:textSize="15dp"></Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="33dp"
+                        android:text="Aquaculture"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp"
+                android:layout_marginLeft="20dp"
+                android:layout_margin="10dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <Button
+                        android:id="@+id/btn6"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:foreground="@drawable/diary"
+                        android:text="Diry"
+                        android:textSize="19dp"></Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="33dp"
+                        android:text="Diry"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+
+        </GridLayout>
+
+    </LinearLayout>
+
+</ScrollView>

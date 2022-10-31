@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.login">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/agri"
+        android:label="AgriGrow"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Acqua_info"
+            android:exported="false" />
+        <activity
+            android:name=".Dairy_info"
+            android:exported="false" />
+        <activity
+            android:name=".Insti_info"
+            android:exported="false" />
+        <activity
+            android:name=".Machine_info"
+            android:exported="false" />
+        <activity
+            android:name=".Tools_info"
+            android:exported="false" />
+        <activity
+            android:name=".Pesti_info"
+            android:exported="false" />
+        <activity
+            android:name=".Agri_Learn"
+            android:exported="false" />
+        <activity
+            android:name=".Invent_tory"
+            android:exported="false" />
+        <activity
+            android:name=".Cinaman_info"
+            android:exported="false" />
+        <activity
+            android:name=".Gerenim_info"
+            android:exported="false" />
+        <activity
+            android:name=".Belevin_info"
+            android:exported="false" />
+        <activity
+            android:name=".Turmeric_info"
+            android:exported="false" />
+        <activity
+            android:name=".Cardamon_info"
+            android:exported="false" />
+        <activity
+            android:name=".Coffee_info"
+            android:exported="false" />
+        <activity
+            android:name=".Oil_info"
+            android:exported="false" />
+        <activity
+            android:name=".Goldenrod_info"
+            android:exported="false" />
+        <activity
+            android:name=".Orange_info"
+            android:exported="false" />
+        <activity
+            android:name=".Sapota_info"
+            android:exported="false" />
+        <activity
+            android:name=".Pineapple_info"
+            android:exported="false" />
+        <activity
+            android:name=".Lemon_info"
+            android:exported="false" />
+        <activity
+            android:name=".Guava_info"
+            android:exported="false" />
+        <activity
+            android:name=".Greeps_info"
+            android:exported="false" />
+        <activity
+            android:name=".Papaya_info"
+            android:exported="false" />
+        <activity
+            android:name=".Banana_info"
+            android:exported="false" />
+        <activity
+            android:name=".Apple_info"
+            android:exported="false" />
+        <activity
+            android:name=".Tuberose_info"
+            android:exported="false" />
+        <activity
+            android:name=".Carnation_info"
+            android:exported="false" />
+        <activity
+            android:name=".Dendrobiumorchi_info"
+            android:exported="false" />
+        <activity
+            android:name=".Gladiolus_info"
+            android:exported="false" />
+        <activity
+            android:name=".Gerbera_info"
+            android:exported="false" />
+        <activity
+            android:name=".Aster_info"
+            android:exported="false" />
+        <activity
+            android:name=".Lilium_info"
+            android:exported="false" />
+        <activity
+            android:name=".Chrysanthemum_info"
+            android:exported="false" />
+        <activity
+            android:name=".Rose_info"
+            android:exported="false" />
+        <activity
+            android:name=".Know_more"
+            android:exported="true" />
+        <activity
+            android:name=".Allspice_info"
+            android:exported="false" />
+        <activity
+            android:name=".Fennel_info"
+            android:exported="false" />
+        <activity
+            android:name=".Nutmeg_info"
+            android:exported="false" />
+        <activity
+            android:name=".Mango_Info"
+            android:exported="false" />
+        <activity
+            android:name=".WebView"
+            android:exported="true" />
+        <activity
+            android:name=".About_Us"
+            android:exported="false" />
+        <activity
+            android:name=".Contact_Us"
+            android:exported="false" />
+        <activity
+            android:name=".Reset_Password"
+            android:exported="true" />
+        <activity
+            android:name=".News_info"
+            android:exported="false" />
+        <activity
+            android:name=".Setting_info"
+            android:exported="true" />
+        <activity
+            android:name=".Drone_service"
+            android:exported="true" />
+        <activity
+            android:name=".Black_info"
+            android:exported="false" />
+        <activity
+            android:name=".Ginger_info"
+            android:exported="false" />
+        <activity
+            android:name=".Clove_info"
+            android:exported="false" />
+        <activity
+            android:name=".Garlic_info"
+            android:exported="false" />
+        <activity
+            android:name=".Cashew_info"
+            android:exported="false" />
+        <activity
+            android:name=".Rubber_info"
+            android:exported="false" />
+        <activity
+            android:name=".Choki_info"
+            android:exported="false" />
+        <activity
+            android:name=".arecanut_info"
+            android:exported="false" />
+        <activity
+            android:name=".Tea_info"
+            android:exported="false" />
+        <activity
+            android:name=".Coco_Nut"
+            android:exported="false" />
+        <activity
+            android:name=".Date_Info"
+            android:exported="false" />
+        <activity
+            android:name=".crop_practice"
+            android:exported="false" />
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDP63w05-4vH_lMzlG830Jaws1lXba9XEY" />
+
+        <activity
+            android:name=".ForgetPassword"
+            android:exported="true" />
+        <activity
+            android:name=".Chat_bot"
+            android:exported="true" />
+        <activity
+            android:name=".Weather_info"
+            android:exported="true" />
+        <activity
+            android:name=".Ferti_calci"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Register2Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Home_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashscreenActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <meta-data
+            android:name="com.facebook.sdk.ClientToken"
+            android:value="@string/facebook_client_token" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/fb_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
